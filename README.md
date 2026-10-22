@@ -1,6 +1,6 @@
 # RECALL Advisor 1.1
 
-![Capa ilustrada do RECALL Advisor: retome de onde parou](docs/images/recall-advisor-cover.png)
+![Capa ilustrada do RECALL Advisor: retome de onde parou](recall-advisor-cover.png)
 
 **Menos recomeços. Mais progresso.**
 
